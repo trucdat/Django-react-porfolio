@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/datnguyen/Desktop/tutorial/interview-small-project/portfolio/django-react-data-more/env"
+VIRTUAL_ENV="/Users/datnguyen/Desktop/tutorial/interview-small-project/portfolio/django-react-data-more2/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
